@@ -5,7 +5,6 @@ h1{
 	display:inline;
 	clear: both;
 	padding: 10px;
-	margin-bottom: 20px;
 	border: solid 1px #ddd;
 }
 
@@ -26,7 +25,6 @@ h1{
 
 #container {
 	background-color: green;
-	float: left;
 	display: inline-block;
 	padding: 10px;
 	margin-top: 20px;
