@@ -9,7 +9,7 @@ h1{
 	border: solid 1px #ddd;
 }
 
-#wrapper {
+#header {
 	width: 100%
 	max-width:960px;
 	margin: 0 auto;
@@ -24,7 +24,7 @@ h1{
 	border: solid 1px #ddd
 }
 
-#guessingNumber {
+#container {
 	background-color: green;
 	float: left;
 	display: inline-block;
@@ -55,7 +55,7 @@ h1{
 	margin-bottom: 50px;
 }
 
-#yts {
+#totals {
 	background: #009688;
 	display: inline;
 	padding: 20px;
